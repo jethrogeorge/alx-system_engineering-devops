@@ -1,2 +1,2 @@
 #!/bin/bash
-towel telnet.blinkenlights.nl
+chmod towel telnet.blinkenlights.nl
